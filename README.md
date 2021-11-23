@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @thIYan-EsWar
-- 👀 I’m interested in AI, ML, CV, and Mathematucs
-- 🌱 I’m currently an Undergard
+- 👀 looking for a job!
+- 🌱 Graudate, majoring in Mechanical Engineering
+- 💡 nterested in AI, ML, CV, and Mathematics
 - 📫 You can reach me through email 
 
 <!---
